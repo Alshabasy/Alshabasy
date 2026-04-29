@@ -64,13 +64,13 @@ I am a Full Stack Developer focused on building modern, scalable web application
 
 ## 📌 Featured Projects
 
-### 🛒 Nike Store – E-Commerce Frontend
+### 🛒 Nike Store – E-Commerce Frontend - [repo link](https://github.com/Alshabasy/Nike-Store.git)
 A responsive e-commerce interface built with HTML, CSS, and JavaScript, simulating a real shopping experience with interactive cart functionality and clean UI design.
 
-### 🛡️ Berimbolo Security – Web Application
+### 🛡️ Berimbolo Security – Web Application - [repo link](https://github.com/Alshabasy/React-Berimbolo-Security.git)
 A React-based business website for security services, focusing on reusable components, structured UI, and responsive design.
 
-### 📊 Dashboard UI (CSS Only)
+### 📊 Dashboard UI (CSS Only) - [repo link](https://github.com/Alshabasy/Dashboard-CSS-Only.git)
 A modern admin dashboard layout built using pure HTML and CSS, demonstrating strong understanding of layout systems and UI structure.
 
 ---
