@@ -1,38 +1,20 @@
-README.md
+# 👋 Hi, I'm Alshabasy
 
-Your Readme is Done 🎉🎉🎉
-Star This Project
-Fork on Github
+## 💻 Full Stack Software Engineer
 
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+I am a Full Stack Developer focused on building modern, scalable web applications and turning ideas into real-world digital products. I enjoy working across both frontend and backend to create clean, efficient, and user-focused systems.
 
-###
+---
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+## 🚀 What I Do
 
-###
+- Build responsive web applications using modern frontend technologies  
+- Develop interactive user interfaces with JavaScript and React  
+- Focus on clean architecture, reusable components, and scalability  
+- Translate real-world ideas into functional web experiences  
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Alshabasy.Alshabasy&"  />
-</div>
+---
 
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Amr Alshabasy from Egypt<br><br>- 🔭 I’m working as Software Engineer<br>- 📚 I'm currently learning 3D Web Design</p>
 
 ###
 
@@ -78,49 +60,39 @@ Fork on Github
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+---
 
-###
+## 📌 Featured Projects
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Alshabasy&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+### 🛒 Nike Store – E-Commerce Frontend
+A responsive e-commerce interface built with HTML, CSS, and JavaScript, simulating a real shopping experience with interactive cart functionality and clean UI design.
 
-###
-A white circle with a dark file icon outlined in the center
-Profile Readme Generator
-Developed and maintained by Mauro de Souza
-Github
-Donate
-Share
-Privacy Policy
-Copy File Content
-Level Up Your README
-Anyone can use templates — but when you know what you’re doing, it shows.
+### 🛡️ Berimbolo Security – Web Application
+A React-based business website for security services, focusing on reusable components, structured UI, and responsive design.
 
-👉 Explore resources that will upgrade your skills — and your README. Start now.
+### 📊 Dashboard UI (CSS Only)
+A modern admin dashboard layout built using pure HTML and CSS, demonstrating strong understanding of layout systems and UI structure.
 
+---
 
-Boost Your English
-Real devs debug in English.
+## 🎯 What I'm Focused On
 
-💰 Get 70% OFF your first trial lesson and start to boost your english with top tutors worldwide on Preply 🚀
+- Strengthening software engineering fundamentals  
+- Building real-world projects with clean architecture  
+- Improving problem-solving and system design skills  
+- Growing as a Full Stack Developer  
 
-👉 Get 70% OFF 👈
+---
 
-Clean Code
-A Handbook of Agile Software Craftsmanship by Uncle Bob.
+## 📫 Let's Connect
 
-Get the book
+- GitHub: [github.com/Alshabasy](https://github.com/Alshabasy)
+- LinkedIn: [linkedin.com/Alshabasy](https://www.linkedin.com/in/amr-alshabasy-a7aa90314)
 
-Clean Architecture
-Software Architecture Solutions from Uncle Bob.
+---
 
-Get the book
+## ⚡ Motto
 
-Explore More Books
-Browse the full list of curated titles to boost your coding skills.
+> "Build strong fundamentals, then scale with frameworks."
 
-More books
-💡 This panel contains affiliate links. If you find something useful and make a purchase, I may earn a small commission ☕. Thanks for the support ❤
-Profile Readme Generator
+---
