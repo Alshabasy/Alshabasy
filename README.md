@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alshabasy
 
-## 💻 Full Stack Software Engineer
+## 💻 Software Engineer | Full-Stack Developer
 
 I am a Full Stack Developer focused on building modern, scalable web applications and turning ideas into real-world digital products. I enjoy working across both frontend and backend to create clean, efficient, and user-focused systems.
 
